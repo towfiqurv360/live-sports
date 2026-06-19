@@ -1,0 +1,16 @@
+{
+  "name": "StreamKeeper Pro",
+  "short_name": "StreamKeeper",
+  "description": "Enterprise Live Streaming App",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#06b6d4",
+  "icons": [
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
