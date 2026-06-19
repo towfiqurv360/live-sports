@@ -1,6 +1,6 @@
 'use client';
 import { useState } from 'react';
-import { supabase } from '@/lib/supabaseClient'; // আপনার Supabase ক্লায়েন্ট পাথ
+import { supabase } from '../lib/supabaseClient';
 import { ShieldAlert, Save } from 'lucide-react';
 
 export default function SuperAdmin() {
