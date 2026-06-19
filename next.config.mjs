@@ -1,9 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  eslint: {
-    // Warning-এর জন্য যেন বিল্ড ফেইল না করে, তার পারমিশন
-    ignoreDuringBuilds: true,
-  },
+  // eslint ব্লকটি এখান থেকে মুছে ফেলা হয়েছে
 };
 
 export default nextConfig;
